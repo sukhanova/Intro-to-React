@@ -1,2 +1,4 @@
 npm run dev
 vite runs on http://localhost:5173/
+
+hooks - by convention all hooks start with "use"
